@@ -1,0 +1,20 @@
+{
+  "name": "super-humanizer",
+  "version": "0.1.0",
+  "description": "한국어 AI 초안의 말투와 전개를 다듬고 윤문 후보를 비교하는 스킬.",
+  "author": {
+    "name": "Atipico1",
+    "url": "https://github.com/Atipico1"
+  },
+  "homepage": "https://github.com/Atipico1/super-humanizer#readme",
+  "repository": "https://github.com/Atipico1/super-humanizer",
+  "license": "MIT",
+  "keywords": [
+    "korean",
+    "writing",
+    "editing",
+    "humanizer",
+    "skills"
+  ],
+  "skills": "./skills/"
+}

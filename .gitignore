@@ -1,0 +1,20 @@
+# Only the distributable plugin and its public documentation belong in Git.
+# Local corpus, research, pilot outputs and compatibility links stay local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/docs/
+!/plugins/
+!/.agents/
+!/.claude-plugin/
+!/.github/
+!/scripts/
+/scripts/*
+!/scripts/validate_package.py
+
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*

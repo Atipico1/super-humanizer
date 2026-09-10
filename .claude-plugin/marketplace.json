@@ -1,0 +1,16 @@
+{
+  "name": "super-humanizer",
+  "owner": {
+    "name": "Atipico1"
+  },
+  "metadata": {
+    "description": "한국어 AI 글 윤문·평가 스킬"
+  },
+  "plugins": [
+    {
+      "name": "super-humanizer",
+      "source": "./plugins/super-humanizer",
+      "description": "한국어 AI 초안의 말투와 전개를 다듬고 윤문 후보를 비교하는 스킬."
+    }
+  ]
+}
